@@ -1,0 +1,7 @@
+C:\Users\Ez\source\repos\PR9(2)\PR9(2)\bin\Debug\PR9(2).exe.config
+C:\Users\Ez\source\repos\PR9(2)\PR9(2)\bin\Debug\PR9(2).exe
+C:\Users\Ez\source\repos\PR9(2)\PR9(2)\bin\Debug\PR9(2).pdb
+C:\Users\Ez\source\repos\PR9(2)\PR9(2)\obj\Debug\PR9(2).csprojAssemblyReference.cache
+C:\Users\Ez\source\repos\PR9(2)\PR9(2)\obj\Debug\PR9(2).csproj.CoreCompileInputs.cache
+C:\Users\Ez\source\repos\PR9(2)\PR9(2)\obj\Debug\PR9(2).exe
+C:\Users\Ez\source\repos\PR9(2)\PR9(2)\obj\Debug\PR9(2).pdb
